@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-android-support-v7-appcompat": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-headercolor": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-safariviewcontroller": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "phonegap-plugin-mobile-accessibility": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "vn.app.test"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "vn.app.test"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "vn.app.test"
+    }
+  }
+}

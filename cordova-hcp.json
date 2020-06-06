@@ -1,0 +1,7 @@
+{
+  "name": "AppTest",
+  "ios_identifier": "vn.app.test",
+  "android_identifier": "vn.app.test",
+  "update": "resume",
+  "content_url": "https://s3.amazonaws.com/appcimi.lab/chcp.json"
+}

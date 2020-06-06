@@ -1,0 +1,63 @@
+{
+  "_from": "cordova-plugin-android-support-v7-appcompat",
+  "_id": "cordova-plugin-android-support-v7-appcompat@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-cyw+hPgLLqFH5t4MlCkZ1UiFWQw=",
+  "_location": "/cordova-plugin-android-support-v7-appcompat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-android-support-v7-appcompat",
+    "name": "cordova-plugin-android-support-v7-appcompat",
+    "escapedName": "cordova-plugin-android-support-v7-appcompat",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-android-support-v7-appcompat/-/cordova-plugin-android-support-v7-appcompat-1.0.0.tgz",
+  "_shasum": "732c3e84f80b2ea147e6de0c942919d54885590c",
+  "_spec": "cordova-plugin-android-support-v7-appcompat",
+  "_where": "/Users/vungo/Documents/CimiCB/apptest/AppTest",
+  "author": {
+    "name": "Google"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-plugin-android-support-v7-appcompat/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Google Inc."
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-android-support-v7-appcompat",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin to add android-support-v7-appcompat.jar to Cordova/PhoneGap project",
+  "homepage": "https://github.com/floatinghotpot/cordova-plugin-android-support-v7-appcompat#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "google",
+    "android",
+    "support",
+    "v7",
+    "appcompat"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-android-support-v7-appcompat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floatinghotpot/cordova-plugin-android-support-v7-appcompat.git"
+  },
+  "version": "1.0.0"
+}

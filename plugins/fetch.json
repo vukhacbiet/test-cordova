@@ -1,0 +1,82 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "phonegap-plugin-mobile-accessibility": {
+    "source": {
+      "type": "registry",
+      "id": "phonegap-plugin-mobile-accessibility"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/apache/cordova-plugin-device.git"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/apache/cordova-plugin-network-information.git"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-safariviewcontroller": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-safariviewcontroller"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-headercolor": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-headercolor"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-custom-config": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-custom-config"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-android-support-v7-appcompat": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-android-support-v7-appcompat"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-background-mode": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-background-mode@^0.7.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-wkwebview-engine": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-wkwebview-engine"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
