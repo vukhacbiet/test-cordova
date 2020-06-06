@@ -14,11 +14,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		FZEzbdl2hj/79ACTjfB11+ROOFY=
+		LsZz+lAbQBwz+H+bsz1XP+eTqtM=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		+nNNbJtdRbmGjE2uxaaIBVKu81o=
+		FxWRVK3Uey1z4DEDWZbuMZtvItc=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -26,87 +26,15 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		jree7hVqdEKp63HIekmoNsAXCeQ=
+		yjKXaAbMoCbuMAqKrEpfTSHtfcE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		V80//xVnUfFjF+ed2k9se1hnLSk=
-		</data>
-		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
-		<data>
-		qOQL7dt/PaKvbEteuj/wwpjTsq4=
-		</data>
-		<key>LaunchImage-1100-Portrait-2436h@3x.png</key>
-		<data>
-		v/8tsQXLdtDEo9m5G5PayPWV0g0=
-		</data>
-		<key>LaunchImage-568h@2x.png</key>
-		<data>
-		6rmXWAsKobJb2SUVCMY3iEIVhTc=
-		</data>
-		<key>LaunchImage-700-568h@2x.png</key>
-		<data>
-		6rmXWAsKobJb2SUVCMY3iEIVhTc=
-		</data>
-		<key>LaunchImage-700-Landscape@2x~ipad.png</key>
-		<data>
-		FHHJCff7/Ep2Ii/KXb0DnkbsE+s=
-		</data>
-		<key>LaunchImage-700-Landscape~ipad.png</key>
-		<data>
-		SWseHFe56H6RdNWkMAONZKDOfMs=
-		</data>
-		<key>LaunchImage-700-Portrait@2x~ipad.png</key>
-		<data>
-		EFKOHcF1DgS9g/2At2pEtIVuJo4=
-		</data>
-		<key>LaunchImage-700-Portrait~ipad.png</key>
-		<data>
-		HkYjEoqIRnnj3ibScbkbuGW4V2w=
-		</data>
-		<key>LaunchImage-700@2x.png</key>
-		<data>
-		X5m5jL+qcX5QSP3+pwX/wwRnga4=
-		</data>
-		<key>LaunchImage-800-667h@2x.png</key>
-		<data>
-		Di9AIJS++GJTx5YUTTTWvMDB6hg=
-		</data>
-		<key>LaunchImage-800-Landscape-736h@3x.png</key>
-		<data>
-		XvEPJmMv/ktgP/Riv7F0Os5xgZ0=
-		</data>
-		<key>LaunchImage-800-Portrait-736h@3x.png</key>
-		<data>
-		OziTLVXtDEPI0s7fXr4+hhnYU8E=
-		</data>
-		<key>LaunchImage-Landscape@2x~ipad.png</key>
-		<data>
-		FHHJCff7/Ep2Ii/KXb0DnkbsE+s=
-		</data>
-		<key>LaunchImage-Landscape~ipad.png</key>
-		<data>
-		SWseHFe56H6RdNWkMAONZKDOfMs=
-		</data>
-		<key>LaunchImage-Portrait@2x~ipad.png</key>
-		<data>
-		EFKOHcF1DgS9g/2At2pEtIVuJo4=
-		</data>
-		<key>LaunchImage-Portrait~ipad.png</key>
-		<data>
-		HkYjEoqIRnnj3ibScbkbuGW4V2w=
-		</data>
-		<key>LaunchImage.png</key>
-		<data>
-		sIWMlcbdXZp1ECduCdFj4UdUzMQ=
-		</data>
-		<key>LaunchImage@2x.png</key>
-		<data>
-		X5m5jL+qcX5QSP3+pwX/wwRnga4=
+		ozCDJRSaXTcbi/OHCl1HztKwGyk=
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		EcBbXyAsLA6txY1x8ZPMOzaaRDo=
+		IFEXsBxBMKkPWDccHs8yk6AO0X0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -118,7 +46,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		be23mmQl7KTqoIqcTlbdJtK6MgE=
+		7/003IAsogCoLReh7wd0Brs0oVE=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -126,27 +54,35 @@
 		</data>
 		<key>www/cordova-js-src/exec.js</key>
 		<data>
-		/kjx3qdbr3f9Z19FNrFwucUZPs0=
+		AeFQ6qjr2tcMNVPPVkqfHrV6IZA=
 		</data>
 		<key>www/cordova-js-src/platform.js</key>
 		<data>
-		ujxMgcZCzzuK4VAjaNIfsORGeNU=
+		BE1CcpMz3w6aKhXmXsOm0p+Az00=
 		</data>
 		<key>www/cordova-js-src/plugin/ios/console.js</key>
 		<data>
 		JxsXQKuPPSgt9+pzHn59exrCEE8=
 		</data>
+		<key>www/cordova-js-src/plugin/ios/launchscreen.js</key>
+		<data>
+		jY23HLemhJLqgZ5EwTYOnoSqO2A=
+		</data>
 		<key>www/cordova-js-src/plugin/ios/logger.js</key>
 		<data>
-		fAjfLcKhtmr5SkINvmtM+qYoIA4=
+		PQ9t01dGnm6HmW1BKdNWeuEgjsM=
+		</data>
+		<key>www/cordova-js-src/plugin/ios/wkwebkit.js</key>
+		<data>
+		CoyM4VnDuqAd3JKdWTdowYJVfmQ=
 		</data>
 		<key>www/cordova.js</key>
 		<data>
-		zkGBP5BqnYb/LhC0NbaL7+sS0Vc=
+		jCUpMwgWKTMoahArCptcCxon/DA=
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		+nW9OUBxiGEL+hfWlliSAdOQoOI=
+		CNkZFU+LPXbZlsX9cmzUBJCIXBs=
 		</data>
 		<key>www/css/index.css</key>
 		<data>
@@ -188,14 +124,6 @@
 		<data>
 		9KN1Jn0uAfLDQNUQ7mi3i4ThiYA=
 		</data>
-		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js</key>
-		<data>
-		Jf+80xptQsEGhUiGLgqUT/RQinI=
-		</data>
-		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview.js</key>
-		<data>
-		uSpOoBJtw3huMClDN2UUZQOjz/Y=
-		</data>
 		<key>www/plugins/phonegap-plugin-mobile-accessibility/www/MobileAccessibilityNotifications.js</key>
 		<data>
 		t3a7us8FS9fLMMQdff97LVWgCMw=
@@ -225,14 +153,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8T2PZkk567rHyZ2kmFSiHHSzD453mZpxMr73R+yzy54=
+			+QTzxeclFfEt21ZsH1699amE/rmuxtQH2YUHhT5hf0k=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kfmA5gFmQ3Hr3VLm0oF64WlJ7WrX5KHBUgDwO2fxZxo=
+			YuAY3zIejSGzMamL5Hzp7yM8BVIOCKAFalo8niLiq74=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -246,140 +174,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pf3XTqpxQoYukXwz8C8uFgQPUhqES9GgIanEGFGt/Oo=
-			</data>
-		</dict>
-		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WWOFERDg1bexKMADpJ9fyD25k49Z0Hsg3VwnlgpX4KM=
-			</data>
-		</dict>
-		<key>LaunchImage-1100-Portrait-2436h@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Wf54e0E1bNFBTCBrLMMEp6+wQ/MDWhoIx4Z/bxnIkaE=
-			</data>
-		</dict>
-		<key>LaunchImage-568h@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TPAnYTS8eWWx1w3Neu/qp62U+xKHGfoEfC1kQvw2VCE=
-			</data>
-		</dict>
-		<key>LaunchImage-700-568h@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TPAnYTS8eWWx1w3Neu/qp62U+xKHGfoEfC1kQvw2VCE=
-			</data>
-		</dict>
-		<key>LaunchImage-700-Landscape@2x~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8NvDAGog0f8873CFiAptqaSgdQVKNcbA+UaKO0pB/vA=
-			</data>
-		</dict>
-		<key>LaunchImage-700-Landscape~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v3j9JSqzvvJXmWPogWGZqajrlr47y4LV0HyoTJEsDWI=
-			</data>
-		</dict>
-		<key>LaunchImage-700-Portrait@2x~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yRY+ZWYWTfdIEIl1QejoRv7cNu8Ns6AHNEMKx2ELWgI=
-			</data>
-		</dict>
-		<key>LaunchImage-700-Portrait~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I7E0v8yMQcUMXTSzWxsmGfFjBECAEXpx49BTCtXklE4=
-			</data>
-		</dict>
-		<key>LaunchImage-700@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bZdruHlgX5QjixkDhaPfKZBS1JTFudqKx+Uu2AagBjk=
-			</data>
-		</dict>
-		<key>LaunchImage-800-667h@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gDzUUH5yR5IeGhx31SjAyJSoD9A+nU2Nb0ZcGMfgrVc=
-			</data>
-		</dict>
-		<key>LaunchImage-800-Landscape-736h@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tE3DzVgxUYeiQt/ofQioJT34zOKJaDVrOhS5l2bmeeo=
-			</data>
-		</dict>
-		<key>LaunchImage-800-Portrait-736h@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			G9khedoklRxte1mQ6VJMSBB/RCGp4Er8cQOs9xIDJ2g=
-			</data>
-		</dict>
-		<key>LaunchImage-Landscape@2x~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8NvDAGog0f8873CFiAptqaSgdQVKNcbA+UaKO0pB/vA=
-			</data>
-		</dict>
-		<key>LaunchImage-Landscape~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v3j9JSqzvvJXmWPogWGZqajrlr47y4LV0HyoTJEsDWI=
-			</data>
-		</dict>
-		<key>LaunchImage-Portrait@2x~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yRY+ZWYWTfdIEIl1QejoRv7cNu8Ns6AHNEMKx2ELWgI=
-			</data>
-		</dict>
-		<key>LaunchImage-Portrait~ipad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I7E0v8yMQcUMXTSzWxsmGfFjBECAEXpx49BTCtXklE4=
-			</data>
-		</dict>
-		<key>LaunchImage.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bUQ2z9R4G/6yRM6rZPmui5K0WHOD1o0BOeg+1pFgHu4=
-			</data>
-		</dict>
-		<key>LaunchImage@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bZdruHlgX5QjixkDhaPfKZBS1JTFudqKx+Uu2AagBjk=
+			SzDZKkoTmao2eeT2z0yuF1JtAOnXEfYqqkkXVYnRsIw=
 			</data>
 		</dict>
 		<key>MainViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t5YSbzC4cLVEJlJn+iNyzrq+YeMGteBSpWB9SgZ8zcY=
+			eawAV3nrY6FKNVN8xlmQPuDWXy8ZvFd+zL1158KVgIM=
 			</data>
 		</dict>
 		<key>appbeep.wav</key>
@@ -393,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DyZiwMDa6n+A+DLFwdyQx+ZDsoRhviSeljM/cjEICuA=
+			ExAHkrTaZ54Uipa8YaxM6s8ap/eIN9amRUigiBPZD/Q=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -407,14 +209,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m2Qjfdi0hINWp6rGnYKgGVbfHlW6Uxsu7AlN/+trjso=
+			FnDGh2PMtuKxE9b8Wg/ZWdrBgDuB+vndel99cBgN5aM=
 			</data>
 		</dict>
 		<key>www/cordova-js-src/platform.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S9540sctUW+dAAN5RwT1Z2yqrUaLkOatC8izY2Pe4uA=
+			nwRHFguFy7vK+gjXcCcfSr+M+JvGtEcFxHjtk4IL+zA=
 			</data>
 		</dict>
 		<key>www/cordova-js-src/plugin/ios/console.js</key>
@@ -424,25 +226,39 @@
 			HuL9WB5RqLOMFMdAR++aP57rv/LQG5T9zKeVR9nn5Gw=
 			</data>
 		</dict>
+		<key>www/cordova-js-src/plugin/ios/launchscreen.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z662XHG69WWif7omIBCAH7nyqPc3Sfi+OzQbNaxjTL4=
+			</data>
+		</dict>
 		<key>www/cordova-js-src/plugin/ios/logger.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YatH/wTtuLhdoa78SdWuT3IwipfAbW8cw1f8m9xAPHI=
+			XbC6O2UB458r+PaXfBMthdABxHwJ5TICU7fhTKmnsr4=
+			</data>
+		</dict>
+		<key>www/cordova-js-src/plugin/ios/wkwebkit.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JAZIg4JGZCV/JFGR55NsvTovDSAKoRwd/+TnHryUMwA=
 			</data>
 		</dict>
 		<key>www/cordova.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSuRswDpOa+IHWbHALZFBTnZ52h29CPUcZng8Op0FE8=
+			CL5h74q/lAsVz8sADbTOCNTGUDEeyVuCIu/vSJ7kTO8=
 			</data>
 		</dict>
 		<key>www/cordova_plugins.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B/IV6wT0wvh1fUsGVhKGkdkcckJOPZHZfcm74e/kMJ4=
+			ZaKbCedOUDNti0XSlcAMMgjOYXKi5j65+aPt42VK83Q=
 			</data>
 		</dict>
 		<key>www/css/index.css</key>
@@ -513,20 +329,6 @@
 			<key>hash2</key>
 			<data>
 			U3bbA0GySZVk2zsP8ZdLIq14U9jdNV+nkdejHnQJdmo=
-			</data>
-		</dict>
-		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			30rJ9tZXBbfE/VcYCAuJHI8E7YpVPHFcxXVT9nbhkUo=
-			</data>
-		</dict>
-		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			snCU5zVffeqnWk/2NWikUz5/ywm8VWiiKUujPDpj0Yw=
 			</data>
 		</dict>
 		<key>www/plugins/phonegap-plugin-mobile-accessibility/www/MobileAccessibilityNotifications.js</key>

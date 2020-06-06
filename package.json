@@ -15,14 +15,13 @@
   "dependencies": {
     "cordova-android": "^8.1.0",
     "cordova-custom-config": "^5.1.0",
-    "cordova-ios": "^5.1.1",
+    "cordova-ios": "^6.0.0",
     "cordova-plugin-android-support-v7-appcompat": "^1.0.0",
     "cordova-plugin-background-mode": "^0.7.3",
     "cordova-plugin-device": "git+https://github.com/apache/cordova-plugin-device.git",
     "cordova-plugin-headercolor": "^1.0.0",
     "cordova-plugin-network-information": "git+https://github.com/apache/cordova-plugin-network-information.git",
     "cordova-plugin-safariviewcontroller": "^1.6.0",
-    "cordova-plugin-wkwebview-engine": "^1.2.1",
     "phonegap-plugin-mobile-accessibility": "^1.0.5"
   },
   "cordova": {
@@ -33,8 +32,7 @@
       "cordova-plugin-headercolor": {},
       "cordova-custom-config": {},
       "cordova-plugin-android-support-v7-appcompat": {},
-      "cordova-plugin-background-mode": {},
-      "cordova-plugin-wkwebview-engine": {}
+      "cordova-plugin-background-mode": {}
     },
     "platforms": [
       "android",

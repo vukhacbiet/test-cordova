@@ -27,9 +27,6 @@
     },
     "phonegap-plugin-mobile-accessibility": {
       "PACKAGE_NAME": "vn.app.test"
-    },
-    "cordova-plugin-wkwebview-engine": {
-      "PACKAGE_NAME": "vn.app.test"
     }
   },
   "dependent_plugins": {
