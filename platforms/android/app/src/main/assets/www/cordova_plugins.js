@@ -65,6 +65,14 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       "clobbers": [
         "MobileAccessibilityNotifications"
       ]
+    },
+    {
+      "id": "cordova-plugin-themeablebrowser.themeablebrowser",
+      "file": "plugins/cordova-plugin-themeablebrowser/www/themeablebrowser.js",
+      "pluginId": "cordova-plugin-themeablebrowser",
+      "clobbers": [
+        "cordova.ThemeableBrowser"
+      ]
     }
   ];
   module.exports.metadata = {
@@ -76,6 +84,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     "cordova-plugin-network-information": "2.0.3-dev",
     "cordova-plugin-safariviewcontroller": "1.6.0",
     "cordova-plugin-whitelist": "1.3.4",
-    "phonegap-plugin-mobile-accessibility": "1.0.5-dev"
+    "phonegap-plugin-mobile-accessibility": "1.0.5-dev",
+    "cordova-plugin-themeablebrowser": "0.2.17"
   };
 });

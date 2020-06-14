@@ -51,6 +51,14 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       ]
     },
     {
+      "id": "cordova-plugin-themeablebrowser.themeablebrowser",
+      "file": "plugins/cordova-plugin-themeablebrowser/www/themeablebrowser.js",
+      "pluginId": "cordova-plugin-themeablebrowser",
+      "clobbers": [
+        "cordova.ThemeableBrowser"
+      ]
+    },
+    {
       "id": "phonegap-plugin-mobile-accessibility.mobile-accessibility",
       "file": "plugins/phonegap-plugin-mobile-accessibility/www/mobile-accessibility.js",
       "pluginId": "phonegap-plugin-mobile-accessibility",
@@ -75,6 +83,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     "cordova-plugin-headercolor": "1.0",
     "cordova-plugin-network-information": "2.0.3-dev",
     "cordova-plugin-safariviewcontroller": "1.6.0",
+    "cordova-plugin-themeablebrowser": "0.2.17",
     "cordova-plugin-whitelist": "1.3.4",
     "phonegap-plugin-mobile-accessibility": "1.0.5-dev"
   };

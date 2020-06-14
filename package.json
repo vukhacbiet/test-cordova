@@ -22,6 +22,7 @@
     "cordova-plugin-headercolor": "^1.0.0",
     "cordova-plugin-network-information": "git+https://github.com/apache/cordova-plugin-network-information.git",
     "cordova-plugin-safariviewcontroller": "^1.6.0",
+    "cordova-plugin-themeablebrowser": "^0.2.18",
     "phonegap-plugin-mobile-accessibility": "^1.0.5"
   },
   "cordova": {
@@ -32,7 +33,8 @@
       "cordova-plugin-headercolor": {},
       "cordova-custom-config": {},
       "cordova-plugin-android-support-v7-appcompat": {},
-      "cordova-plugin-background-mode": {}
+      "cordova-plugin-background-mode": {},
+      "cordova-plugin-themeablebrowser": {}
     },
     "platforms": [
       "android",

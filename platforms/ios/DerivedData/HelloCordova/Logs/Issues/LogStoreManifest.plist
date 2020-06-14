@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>21B2FBA0-64D3-480A-8EF2-0BCE379645AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>21B2FBA0-64D3-480A-8EF2-0BCE379645AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>CordovaLib-eeecmbzusrncrvgwqcoqnfmpxgpi</string>
+			<key>timeStartedRecording</key>
+			<real>613796090.21159995</real>
+			<key>timeStoppedRecording</key>
+			<real>613796095.70195496</real>
+			<key>title</key>
+			<string>Build target CordovaLib</string>
+			<key>uniqueIdentifier</key>
+			<string>21B2FBA0-64D3-480A-8EF2-0BCE379645AC</string>
+		</dict>
+		<key>5E32ECF3-ED46-46D5-BCC8-730CA3F5517B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5E32ECF3-ED46-46D5-BCC8-730CA3F5517B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>HelloCordova-acsfbrtyaxhcrcfzomogswglmyvo</string>
+			<key>timeStartedRecording</key>
+			<real>613822786.08885098</real>
+			<key>timeStoppedRecording</key>
+			<real>613822786.72838998</real>
+			<key>title</key>
+			<string>Build target HelloCordova</string>
+			<key>uniqueIdentifier</key>
+			<string>5E32ECF3-ED46-46D5-BCC8-730CA3F5517B</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

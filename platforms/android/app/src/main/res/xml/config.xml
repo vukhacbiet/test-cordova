@@ -54,4 +54,7 @@
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
     <preference name="KeyboardDisplayRequiresUserAction" value="false" />
+    <feature name="ThemeableBrowser">
+        <param name="android-package" value="com.initialxy.cordova.themeablebrowser.ThemeableBrowser" />
+    </feature>
 </widget>

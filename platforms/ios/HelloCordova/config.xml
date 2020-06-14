@@ -38,6 +38,9 @@
     <feature name="SafariViewController">
         <param name="ios-package" value="SafariViewController" />
     </feature>
+    <feature name="ThemeableBrowser">
+        <param name="ios-package" value="CDVThemeableBrowser" />
+    </feature>
     <feature name="MobileAccessibility">
         <param name="ios-package" onload="true" value="CDVMobileAccessibility" />
     </feature>
